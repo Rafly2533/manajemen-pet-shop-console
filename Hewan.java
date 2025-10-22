@@ -15,7 +15,6 @@ public class Hewan {
         this.stok = stok;
     }
     
-    // Getter methods
     public String getId() { return id; }
     public String getNama() { return nama; }
     public String getJenis() { return jenis; }
