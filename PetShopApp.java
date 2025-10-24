@@ -8,7 +8,7 @@ public class PetShopApp {
     private ArrayList<Layanan> daftarLayanan;
     
     public PetShopApp() {
-        this.admin = new Admin("admin", "pass");
+        this.admin = new Admin("Rafly", "123456");
         this.daftarHewan = new ArrayList<>();
         this.daftarPelanggan = new ArrayList<>();
         this.daftarLayanan = new ArrayList<>();
